@@ -1,0 +1,35 @@
+INFO  20-11-26 23:31:09[restartedMain] [GitExApplication:55] - Starting GitExApplication using Java 15 on DESKTOP-P84U3PA with PID 11740 (D:\GitTest\GitEx\target\classes started by Son in D:\GitTest\GitEx)
+INFO  20-11-26 23:31:09[restartedMain] [GitExApplication:664] - The following profiles are active: local
+INFO  20-11-26 23:31:09[restartedMain] [TomcatWebServer:108] - Tomcat initialized with port(s): 80 (http)
+INFO  20-11-26 23:31:09[restartedMain] [Http11NioProtocol:173] - Initializing ProtocolHandler ["http-nio-80"]
+INFO  20-11-26 23:31:09[restartedMain] [StandardService:173] - Starting service [Tomcat]
+INFO  20-11-26 23:31:09[restartedMain] [StandardEngine:173] - Starting Servlet engine: [Apache Tomcat/9.0.39]
+INFO  20-11-26 23:31:09[restartedMain] [[/]:173] - Initializing Spring embedded WebApplicationContext
+INFO  20-11-26 23:31:09[restartedMain] [ServletWebServerApplicationContext:289] - Root WebApplicationContext: initialization completed in 98 ms
+INFO  20-11-26 23:31:09[restartedMain] [ThreadPoolTaskExecutor:181] - Initializing ExecutorService 'applicationTaskExecutor'
+INFO  20-11-26 23:31:09[restartedMain] [OptionalLiveReloadServer:58] - LiveReload server is running on port 35729
+INFO  20-11-26 23:31:09[restartedMain] [Http11NioProtocol:173] - Starting ProtocolHandler ["http-nio-80"]
+INFO  20-11-26 23:31:09[restartedMain] [TomcatWebServer:220] - Tomcat started on port(s): 80 (http) with context path ''
+INFO  20-11-26 23:31:09[restartedMain] [GitExApplication:61] - Started GitExApplication in 0.159 seconds (JVM running for 355.851)
+INFO  20-11-26 23:31:09[restartedMain] [ConditionEvaluationDeltaLoggingListener:63] - Condition evaluation unchanged
+INFO  20-11-26 23:31:26[Thread-18] [ThreadPoolTaskExecutor:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+INFO  20-11-26 23:32:24[restartedMain] [GitExApplication:55] - Starting GitExApplication using Java 15 on DESKTOP-P84U3PA with PID 11740 (D:\GitTest\GitEx\target\classes started by Son in D:\GitTest\GitEx)
+INFO  20-11-26 23:32:24[restartedMain] [GitExApplication:664] - The following profiles are active: local
+INFO  20-11-26 23:32:24[restartedMain] [TomcatWebServer:108] - Tomcat initialized with port(s): 80 (http)
+INFO  20-11-26 23:32:24[restartedMain] [Http11NioProtocol:173] - Initializing ProtocolHandler ["http-nio-80"]
+INFO  20-11-26 23:32:24[restartedMain] [StandardService:173] - Starting service [Tomcat]
+INFO  20-11-26 23:32:24[restartedMain] [StandardEngine:173] - Starting Servlet engine: [Apache Tomcat/9.0.39]
+INFO  20-11-26 23:32:24[restartedMain] [[/]:173] - Initializing Spring embedded WebApplicationContext
+INFO  20-11-26 23:32:24[restartedMain] [ServletWebServerApplicationContext:289] - Root WebApplicationContext: initialization completed in 95 ms
+INFO  20-11-26 23:32:24[restartedMain] [ThreadPoolTaskExecutor:181] - Initializing ExecutorService 'applicationTaskExecutor'
+INFO  20-11-26 23:32:24[restartedMain] [OptionalLiveReloadServer:58] - LiveReload server is running on port 35729
+INFO  20-11-26 23:32:24[restartedMain] [Http11NioProtocol:173] - Starting ProtocolHandler ["http-nio-80"]
+INFO  20-11-26 23:32:24[restartedMain] [TomcatWebServer:220] - Tomcat started on port(s): 80 (http) with context path ''
+INFO  20-11-26 23:32:24[restartedMain] [GitExApplication:61] - Started GitExApplication in 0.159 seconds (JVM running for 431.121)
+INFO  20-11-26 23:32:24[restartedMain] [ConditionEvaluationDeltaLoggingListener:63] - Condition evaluation unchanged
+INFO  20-11-26 23:32:34[http-nio-80-exec-1] [[/]:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+INFO  20-11-26 23:32:34[http-nio-80-exec-1] [DispatcherServlet:525] - Initializing Servlet 'dispatcherServlet'
+INFO  20-11-26 23:32:34[http-nio-80-exec-1] [DispatcherServlet:547] - Completed initialization in 1 ms
+INFO  20-11-26 23:32:34[http-nio-80-exec-1] [LogController:19] - INFO Level 테스트
+WARN  20-11-26 23:32:34[http-nio-80-exec-1] [LogController:20] - Warn Level 테스트
+ERROR 20-11-26 23:32:34[http-nio-80-exec-1] [LogController:21] - ERROR Level 테스트
