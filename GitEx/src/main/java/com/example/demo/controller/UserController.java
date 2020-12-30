@@ -17,7 +17,7 @@ import com.example.demo.service.UserService;
 import com.example.demo.vo.UserVO;
 
 @Controller
-@RequestMapping("user")
+@RequestMapping(value = "/user")
 public class UserController {
 
 	@Autowired
