@@ -14,7 +14,7 @@ public class MvcConfiguration extends WebMvcConfigurerAdapter{
 	public void addInterceptors(InterceptorRegistry registry) {
 		// TODO Auto-generated method stub
 		registry.addInterceptor(new LoggerInterceptor())
-		.excludePathPatterns("/user/**");
+		.excludePathPatterns("/**");
 	}
 
 	

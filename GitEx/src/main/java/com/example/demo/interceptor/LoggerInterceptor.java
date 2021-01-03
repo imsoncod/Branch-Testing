@@ -20,13 +20,14 @@ public class LoggerInterceptor implements HandlerInterceptor{
 		System.out.println("==================== BEGIN ====================");
 		System.out.println("===============================================");
 		System.out.println("Request URI ===> " + request.getRequestURI());
-		if(request.getHeader("Authorization").equals("live")) {
-			System.out.println("=================진입 성공==================");
-			return true;
-		}else {
-			System.out.println("=================진입 실패==================");
-			return false;
-		}
+		return true;
+//		if(request.getHeader("Authorization").equals("live")) {
+//			System.out.println("=================진입 성공==================");
+//			return true;
+//		}else {
+//			System.out.println("=================진입 실패==================");
+//			return false;
+//		}
 	}
 	
 }
